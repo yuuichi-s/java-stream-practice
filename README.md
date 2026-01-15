@@ -1,6 +1,4 @@
-# java-stream-practice
-
-JavaのLambda式とStream APIを実践的に学べる練習問題集です。
+# JavaのLambda式とStream APIの練習問題集
 
 ## 概要
 
@@ -34,7 +32,7 @@ git clone https://github.com/your-username/java-stream-practice.git
 ### 2. IntelliJ IDEAでプロジェクトを開く
 
 1. IntelliJ IDEAを起動
-2. `File` → `Open` を選択
+2. プロジェクトの`開く` を選択
 3. クローンしたフォルダ（`java-stream-practice`）を選択して `OK`
 4. 「Trust Project」を選択
 5. Mavenの依存関係が自動的にダウンロードされます（右下に進捗が表示されます）
@@ -43,9 +41,9 @@ git clone https://github.com/your-username/java-stream-practice.git
 
 依存関係のダウンロード完了後、JDKが設定されていない場合は以下の手順で設定してください。
 
-1. `File` → `Project Structure` を開く
-2. `Project` → `SDK` でJDK 17以上を選択
-3. `Apply` → `OK`
+1. `ファイル` → `プロジェクト構造` を開く
+2. `プロジェクト` → `SDK` でJDK 17以上を選択
+3. `OK`
 
 ## 練習問題の構成
 
